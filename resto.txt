@@ -1,0 +1,9 @@
+# Definir dos números
+a = 10
+b = 3
+
+# Operación de resto (módulo)
+resto = a % b
+
+# Mostrar el resultado
+print(f"El resto de {a} dividido por {b} es {resto}")
